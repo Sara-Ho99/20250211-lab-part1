@@ -7,3 +7,13 @@
 ## HEROKU
 
 demo-deploy-one-20250211
+
+## Troubleshooting
+
+remember to update the package.json file and update the "scripts"
+
+```json
+ "scripts": {
+     "start": "node index.js"
+ },
+```
