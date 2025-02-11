@@ -6,7 +6,7 @@
 
 ## HEROKU
 
-demo-deploy-one-20250211
+demo-deploy-one-20250211 --- *site deleted*
 
 ## Troubleshooting
 
